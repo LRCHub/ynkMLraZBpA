@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "夜撫でるメノウ",
+  "base_artist": "Ayase",
+  "createdAt": "2025-12-02T10:50:00.976736Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜撫でるメノウ (Ayase ver.)",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/01_夜撫でるメノウ_(Ayase_ver.)_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜撫でるメノウ",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/02_夜撫でるメノウ_Ayase.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜撫でるメノウ",
+      "artist": "Ayase",
+      "has_synced": false,
+      "path": "select/pl_01_夜撫でるメノウ_Ayase.txt"
+    }
+  ]
+}
